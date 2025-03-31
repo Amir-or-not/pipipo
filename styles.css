@@ -24,7 +24,7 @@
 
 .image-sectione {
     flex: 1;
-    background: url('2.jpg') no-repeat center/cover;
+    background: url('images/2.jpg') no-repeat center/cover;
     height: 90vh;
 }
 
@@ -478,13 +478,13 @@ o2 {
 }
 .card-1 {background: url('https://avatars.mds.yandex.net/i?id=edf6bf4de0ded286642adaaf232d5779_l-4969887-images-thumbs&n=13') no-repeat center/cover;}
 .card-2 {background: url('https://i.ytimg.com/vi/qk9yHnEgDGE/maxresdefault.jpg') no-repeat center/cover;}
-.card-3 {background: url('2.jpg') no-repeat center/cover;}
-.card-4 {background: url('https://i.ebayimg.com/images/g/F3sAAOSwIkZiAMSz/s-l1600.jpg') no-repeat center/cover;}
+.card-3 {background: url('images/2.jpg') no-repeat center/cover;}
+.card-4 {background: url('https://avatars.mds.yandex.net/i?id=126d3ee5d62ad7ccd653d175f37c70d8d8f5c8d1-9205558-images-thumbs&n=13') no-repeat center/cover;}
 .card-5 {background: url('https://ymelets.ru/upload/iblock/fb4/x257183odoo7oph8q8nvxoab6k0gb61m/115678.970.jpg') no-repeat center/cover;}
 .card-6 {background: url('https://smartshop.kz/image/files/sm901/sm900509.jpg') no-repeat center/cover;} 
 .card-7 {background: url('https://avatars.mds.yandex.net/i?id=aaf0ed4df33c9016ee000d903b9df49261d9053f-3934134-images-thumbs&n=13') no-repeat center/cover;}
 .card-8 {background: url('https://avatars.mds.yandex.net/i?id=4428f1651d4ee5afb5c82670b3810c78ca487aca-12483207-images-thumbs&n=13') no-repeat center/cover;}
-.card-9 {background: url('https://i.pinimg.com/originals/28/4a/4c/284a4c9b439d670597604235683d6748.jpg') no-repeat center/cover;}
+.card-9 {background: url('https://avatars.mds.yandex.net/i?id=e9ea63169a43d8c8c9278e7bcad3f7a8139c0ed9-4119103-images-thumbs&n=13') no-repeat center/cover;}
 .card-10 {background: url('https://avatars.mds.yandex.net/i?id=503bf73e742f63d1236b1da16b588ad85273a5bf-10256621-images-thumbs&n=13') no-repeat center/cover;}
 .card-11 {background: url('https://avatars.mds.yandex.net/i?id=f9fbd01ba910dbc1227ef910b96ca5b1_l-5582363-images-thumbs&ref=rim&n=13&w=800&h=800') no-repeat center/cover;}
 .card-12 {background: url('https://images.wallpaperscraft.ru/image/single/derevia_vid_sverhu_les_119104_1920x1200.jpg') no-repeat center/cover;}
@@ -967,7 +967,7 @@ footer {
 .newsletter {
     position: relative;
     top: 200px;
-    background: url('1.jpg') no-repeat center center/cover;
+    background: url('images/1.jpg') no-repeat center center/cover;
     padding: 40px 20px;
     border-radius: 15px;
     display: flex;
